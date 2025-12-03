@@ -34,4 +34,3 @@ public class SampleTest {
         assertEquals(1, result);
     }
 }
-}
